@@ -1,0 +1,28 @@
+social:
+  - identifier: github
+    name: GitHub
+    url: "https://github.com/fdaille"
+    params:
+      icon: brand-github
+
+  - identifier: linkedin
+    name: linkedin
+    url: "https://www.linkedin.com/in/fdaille/"
+    params:
+      icon: linkedin
+
+
+# main:
+#   - identifier: home
+#     name: Accueil
+#     url: /
+#     weight: -100
+#     params:
+#       icon: home
+
+  # - identifier: blog
+  #   name: Blog
+  #   url: /post
+  #   weight: 2
+  #   params:
+  #     icon: book
